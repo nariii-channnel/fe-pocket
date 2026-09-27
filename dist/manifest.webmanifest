@@ -1,0 +1,10 @@
+{
+  "name": "FE Pocket — 基本情報技術者テキスト",
+  "short_name": "FE Pocket",
+  "description": "基本情報技術者試験を、すきま時間に少しずつ学ぶためのテキストアプリ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#08111f",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
